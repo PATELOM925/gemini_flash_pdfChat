@@ -58,18 +58,10 @@ print(response)
 
 That's it! You've successfully set up a RAG system using the Clarifai Python SDK.
 
-## Connect with Me
+## Acknowledgments
 
-If you are interested in topics like:
-- Python 🐍
-- Data Science 📈
-- Machine Learning 🤖
-- Data Analysis 📊
-- LLMs 🧠
-- MLOps 🛠
+This guide was created with the help of a Twitter thread by Sumanth. If you’re interested in topics like Python, Data Science, Machine Learning, Data Analysis, LLMs, and MLOps, you can follow him for daily content.
 
-Follow me on Twitter [@Sumanth_077](https://twitter.com/Sumanth_077) for daily content.
 
----
-
-This README provides a concise guide for setting up a RAG system with the Clarifai Python SDK, following the steps outlined in the provided instructions.
+Follow Him on Twitter [@Sumanth_077](https://x.com/Sumanth_077) for daily content.
+My Twitter Handle : [@om_m_patel](https://x.com/om_m_patel) for following my build everything in public.

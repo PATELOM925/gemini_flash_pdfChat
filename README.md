@@ -1,7 +1,3 @@
-Sure, here's a README file created from the provided instructions:
-
----
-
 # Clarifai RAG System Setup
 
 This guide explains how to set up a Retrieval-Augmented Generation (RAG) system using the Clarifai Python SDK in just a few steps. 
